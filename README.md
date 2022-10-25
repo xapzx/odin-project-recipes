@@ -1,4 +1,6 @@
 # odin-project-recipes
+Visit https://xapzx.github.io/odin-project-recipes/ to view my project.
+
 This project is a part of the Foundations course from The Odin Project. The project is to build a basic recipe website.
 
 On completion of this project, basic skills in HTML will be demonstrated.
