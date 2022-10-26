@@ -1,6 +1,14 @@
+body {
+    margin: 0;
+}
+
+/* Bottom shadow effect taken from https://stackoverflow.com/questions/3971880/how-to-make-shadow-on-border-bottom */
 header {
-    border-bottom-style: solid;
-    border-bottom-color: lightgray;
+    font-weight: bold;
+    -webkit-box-shadow: 0 4px 6px -6px #222;
+    -moz-box-shadow: 0 4px 6px -6px #222;
+    box-shadow: 0 4px 6px -6px #222;
+    padding: 5px;
 }
 
 header a {
@@ -23,7 +31,9 @@ header a {
 }
 
 .content {
-    margin: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
 }
 
 a:visited {
