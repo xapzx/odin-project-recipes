@@ -1,4 +1,40 @@
+header {
+    border-bottom-style: solid;
+    border-bottom-color: lightgray;
+}
+
+header a {
+    text-decoration: none;
+}
+
+.main-title {
+    text-align: center;
+    color: lightskyblue;
+    font-size: 3em;
+}
+
+.recipe-category-title {
+    color: lightskyblue;
+}
+
 .recipe-image {
     height: auto;
     width: 500px;
+}
+
+.content {
+    margin: 20px;
+}
+
+a:visited {
+    color: black;
+}
+
+.content a {
+    text-decoration: none;
+}
+
+.content a:hover {
+    text-decoration: underline;
+    font-weight: bold;
 }
