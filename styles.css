@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family: Georgia, Verdana, Monaco;
 }
 
 /* Bottom shadow effect taken from https://stackoverflow.com/questions/3971880/how-to-make-shadow-on-border-bottom */
